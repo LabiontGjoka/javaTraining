@@ -17,7 +17,7 @@ public class CarLeasingTest {
             }else if (model == 'A'){
                 System.out.println("Model "+model+" leasePrice = $415");
             }
-
+//a
         }else{
             System.out.println("we don't sell that kind of car ");
             return;// exit program/ exits main method
